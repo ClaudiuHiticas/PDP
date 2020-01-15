@@ -1,0 +1,3 @@
+/Users/claudiuhiticas/Desktop/University/PPD/Project/Task 1/CMakeFiles/rebuild_cache.dir
+/Users/claudiuhiticas/Desktop/University/PPD/Project/Task 1/CMakeFiles/edit_cache.dir
+/Users/claudiuhiticas/Desktop/University/PPD/Project/Task 1/CMakeFiles/GrayscaleFilter.o.dir
